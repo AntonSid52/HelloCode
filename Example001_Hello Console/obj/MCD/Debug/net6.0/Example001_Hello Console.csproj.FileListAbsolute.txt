@@ -1,0 +1,15 @@
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\bin\MCD\Debug\net6.0\Example001_Hello Console.exe
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\bin\MCD\Debug\net6.0\Example001_Hello Console.deps.json
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\bin\MCD\Debug\net6.0\Example001_Hello Console.runtimeconfig.json
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\bin\MCD\Debug\net6.0\Example001_Hello Console.dll
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\bin\MCD\Debug\net6.0\Example001_Hello Console.pdb
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\Example001_Hello Console.csproj.AssemblyReference.cache
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\Example001_Hello Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\Example001_Hello Console.AssemblyInfoInputs.cache
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\Example001_Hello Console.AssemblyInfo.cs
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\Example001_Hello Console.csproj.CoreCompileInputs.cache
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\Example001_Hello Console.dll
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\refint\Example001_Hello Console.dll
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\Example001_Hello Console.pdb
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\Example001_Hello Console.genruntimeconfig.cache
+C:\Users\ZETLAB\Desktop\Учеба GB\Знаковмство с программированием\Examples\Example001_Hello Console\obj\MCD\Debug\net6.0\ref\Example001_Hello Console.dll
