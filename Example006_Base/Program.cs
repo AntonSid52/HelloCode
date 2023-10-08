@@ -1,4 +1,10 @@
-﻿int a = 1;
+﻿int Max(int arg1, int arg2, int arg3)
+{
+    int result = arg2;
+    if(arg2>result) result = Max;
+    if(arg3>result) result = Max;
+}
+int a = 1;
 int b = 2;
 int c = 6;
 int d = 8;
